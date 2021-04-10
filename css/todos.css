@@ -1,0 +1,27 @@
+body{
+	font-family: sans-serif;
+	background: linear-gradient( darkred 25%, black );
+}
+.punto,h3{
+	color: white;
+	text-align: center;
+}
+h1{
+	color: white;
+	text-align: center; 
+}
+.section li a{
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+.section {
+	background: black;
+}
+.section li a:hover{
+	background: silver;
+}
+.section li{
+	display: inline-block;
+}
