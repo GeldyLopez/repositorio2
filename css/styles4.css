@@ -10,24 +10,19 @@ img{
 	text-align: center;
 	color: white;
 }
-.navdar li{
-	display: inline-block;
 
-}
+
 .navdar li a{
 	color: white;
 	text-decoration: none;
 	display: block;
-	padding: 20px;
+	width: 15%;
+	padding: 
 }
 
-.navdar{
-	background-color: black;
-}
-	
 
 .navdar li a:hover {
-	background: silver
+	background: black;
 }
 p{
 	color: white;
